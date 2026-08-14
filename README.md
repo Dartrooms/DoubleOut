@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Dartrooms/DoubleOut/blob/main/Darts_header-b763adf220.jpg" width="100%" alt="Double Out Header">
+  <img src="https://github.com/Dartrooms/DoubleOut/blob/main/Darts_header-b763adf220.jpg" width="300" alt="Double Out Logo">
 </p>
 
 # 🎯 Double Out - The Darts Card Game
