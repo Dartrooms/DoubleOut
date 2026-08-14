@@ -1,8 +1,8 @@
----
+<p align="center">
+  <a href="#-english-version">🇬🇧 <b>Switch to English Version</b></a>
+</p>
 
-*🇬🇧 [Switch to English Version](#-english-version)*
-
----
+<hr>
 
 <p align="center">
   <img src="https://github.com/Dartrooms/DoubleOut/blob/main/Darts_header-b763adf220.jpg" width="300" alt="Double Out Logo">
@@ -54,15 +54,13 @@ Du kannst die aktuelle Version der App direkt als APK herunterladen:
 
 Entwickelt für Android als Web-App / mobile Anwendung.
 
----
----
+<br><br>
+<hr id="-english-version">
+<hr>
 
-<a name="-english-version"></a>
-## 🇬🇧 English Version
-
-*🇩🇪 [Zurück zur deutschen Version](#-double-out---the-darts-card-game)*
-
----
+<p align="center">
+  <a href="#top">🇩🇪 <b>Zurück zur deutschen Version / Back to German</b></a>
+</p>
 
 <p align="center">
   <img src="https://github.com/Dartrooms/DoubleOut/blob/main/Darts_header-b763adf220.jpg" width="300" alt="Double Out Logo">
